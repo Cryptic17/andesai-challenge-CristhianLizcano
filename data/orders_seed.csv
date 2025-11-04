@@ -1,0 +1,8 @@
+order_id,sku,qty
+order_A01,prod_001,2
+order_A01,prod_005,1
+order_A02,prod_001,1
+order_A02,prod_002,3
+order_A02,prod_003,1
+order_A03,prod_004,5
+order_A04,prod_001,3

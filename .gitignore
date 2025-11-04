@@ -1,0 +1,8 @@
+# Entorno virtual de Python
+venv/
+__pycache__/
+*.pyc
+# Archivos de Docker (se entregan por separado)
+*.tar
+# Configuración de IDE
+.vscode/

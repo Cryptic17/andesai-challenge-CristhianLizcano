@@ -1,0 +1,13 @@
+# Ignorar entorno virtual
+venv/
+
+# Ignorar caché de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos .tar
+*.tar
+
+# Ignorar carpetas de Git y VSCode
+.git
+.vscode
